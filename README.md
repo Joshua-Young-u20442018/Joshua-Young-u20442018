@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 👯 I’m looking to collaborate on **Nothing**
+- 👯 I’m looking to collaborate on **Anything**
 
-- 🤔 I’m looking for help with **Nothing**
+- 🤔 I’m looking for help with **Employment**
 
 - ⚡ Fun fact: I love **learning new things**, playing **chess** and playing **games** with friends
 
