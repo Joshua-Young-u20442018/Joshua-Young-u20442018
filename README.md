@@ -45,6 +45,11 @@
 <br />
 <br />
 
+## :zap: Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
 ## :zap: GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-Young-u20442018)](https://github.com/anuraghazra/github-readme-stats)
