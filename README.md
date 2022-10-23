@@ -51,6 +51,7 @@
 <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=whit"  height="25px"/>
 <img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"  height="25px"/>
 </p>
+
 ## :zap: GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-Young-u20442018)](https://github.com/anuraghazra/github-readme-stats)
